@@ -125,3 +125,4 @@ local.properties
 
 # IntelliJ
 *.iml
+*.hprof
